@@ -1,0 +1,56 @@
+1. (4 puntos) Indique los comandos para crear subir la versión del proyecto git a un repositorio
+remoto.
+
+1) git init
+2) git commit -m "mensaje del commit"
+3) git remote add origin url-del-repositorio 
+4) git push -u origin main
+
+2. (4 puntos) ¿Cómo se puede utilizar el codigo de un proyecto git en un repositorio remoto
+(github) en un computador local?
+
+Clonando el repositorio o descargandolo para luego conectarlo de manera local, asi poder 
+modificarlo y tenerlo en nuestra propia cuenta de github
+
+
+3. (4 puntos) Si se implementa un código en python que crea un objeto de una clase abstracta,
+¿Qué sucede al ejecutar dicho código?
+
+
+
+4. (4 puntos) ¿Qué significa que un método tenga el decorador @abstractmethod?
+
+
+
+5. (4 puntos) Indique 3 eventos que pueden ejecutarse en una interfaz gráfica de usuario.
+
+1) Presionar una tecla
+2) Abrir una nueva ventana
+3) Presionar un boton del mause
+
+
+6. (4 puntos) ¿Qué es el ciclo de eventos?
+
+Crea toda la interaccion del usuario con la intefaz gráfica, cada evento que se llama se agrega
+al ciclo y se van ejecutando en orden.
+
+
+7. (4 puntos) Si desde la ventana principal de un prograna se lanza un objeto de clase QDialog
+¿Es posible ignorarlo y seguir utilizando la ventana principal?
+
+
+8. (4 puntos) Mencione al menos 5 componentes gráficos de PyQt6
+
+QPushButton, QGridLayout, QVBoxLayout, QHBoxLayout, QWidget
+
+9. (4 puntos) Si se requiere de ingresar datos numéticos, que alternativas existen de componentes
+en PyQt6
+
+usar un QLineEdit y lo ingresado pasarlo por la función int() o float()
+
+
+10. (4 puntos) ¿Cómo es posible utilizar una interfaz creada con Qt Designer en un código fuente
+en python con PyQt6?
+
+
+
