@@ -2,9 +2,10 @@
 remoto.
 
 1) git init
-2) git commit -m "mensaje del commit"
-3) git remote add origin url-del-repositorio 
-4) git push -u origin main
+2) git add .    --> Para añadir todos los archivos
+3) git commit -m "mensaje del commit"
+4) git remote add origin url-del-repositorio 
+5) git push -u origin main
 
 2. (4 puntos) ¿Cómo se puede utilizar el codigo de un proyecto git en un repositorio remoto
 (github) en un computador local?
